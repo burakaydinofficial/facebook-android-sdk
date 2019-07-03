@@ -61,7 +61,7 @@
 
         <provider
             android:name="com.facebook.FacebookContentProvider"
-            android:authorities="com.facebook.app.FacebookContentProvider355198514515820"
+            android:authorities="com.facebook.app.FacebookContentProvider324078925132094"
             android:exported="true" />
         <receiver android:name="com.example.hellofacebook.HelloFacebookBroadcastReceiver">
             <intent-filter>
